@@ -5,9 +5,8 @@
 # 👀 개발 잘 하나요?
 ## 한 걸 보여주세요!
 
-- 습관형성 프로젝트 : flexiblehabit.com
-- Github OverView : github.com/onys-programmer
-- Devlog : developeonmyown.tistory.com/
+### 습관형성 프로젝트 : https://flexiblehabit.com/
+### 블로그 : https://developeonmyown.tistory.com/
 
 ## 무엇을 할 수 있나요?
 
