@@ -4,13 +4,15 @@
 
 # 👀 프로젝트
 
+### 애플리케이션 모니터링의 완벽한 시작! Druid6 : https://druid6.netlify.app/
+### 포켓몬 스티커를 NFT로 만나보자! PokeLand : https://github.com/onys-programmer/pokeland
+
 ### 습관형성 프로젝트 : https://flexiblehabit.com/
 ### 블로그 : https://developeonmyown.tistory.com/
 
 삼성 청년 소프트웨어 아카데미(SSAFY)에서 Vuejs, Django, Bootstrap 등을 사용하여 프로젝트를 만든 경험이 있습니다.
 ### https://github.com/onys-programmer/igeoeottae-front
 ### https://github.com/onys-programmer/igeoeottae-back
-
 
 ## 기술 스택
 
