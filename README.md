@@ -9,10 +9,11 @@
 
 ### 애플리케이션 모니터링의 완벽한 시작! Druid6 : https://druid6.netlify.app/
 ### 포켓몬 스티커를 NFT로 만나보자! PokeLand : https://github.com/onys-programmer/pokeland
-### 삼성 청년 소프트웨어 아카데미(SSAFY)에서 Vuejs, Django, Bootstrap 등을 사용하여 프로젝트를 만든 경험이 있습니다.
+### 리액트 TDD로 만든 습관형성 프로젝트 : https://github.com/onys-programmer/project-react-2-onys-programmer
+### MBTI기반 영화 추천 프로젝트
 ### https://github.com/onys-programmer/igeoeottae-front
 ### https://github.com/onys-programmer/igeoeottae-back
-### 리액트 TDD로 만든 습관형성 프로젝트 : https://github.com/onys-programmer/project-react-2-onys-programmer
+
 
 ---
 ### 블로그 : https://developeonmyown.tistory.com/
