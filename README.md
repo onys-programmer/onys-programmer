@@ -12,7 +12,7 @@
 ### 삼성 청년 소프트웨어 아카데미(SSAFY)에서 Vuejs, Django, Bootstrap 등을 사용하여 프로젝트를 만든 경험이 있습니다.
 ### https://github.com/onys-programmer/igeoeottae-front
 ### https://github.com/onys-programmer/igeoeottae-back
-### 리액트 TDD로 만든 습관형성 프로젝트 : https://flexiblehabit.com/
+### 리액트 TDD로 만든 습관형성 프로젝트 : https://github.com/onys-programmer/project-react-2-onys-programmer
 
 ---
 ### 블로그 : https://developeonmyown.tistory.com/
