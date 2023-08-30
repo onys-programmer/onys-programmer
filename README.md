@@ -6,24 +6,29 @@
 ![image](https://github.com/onys-programmer/onys-programmer/assets/65271951/2bbc2251-2e4d-477b-8137-60ae9a8155cb)
 
 [성과]
-- 랜딩페이지 제작 기여도 100% 
+- 랜딩페이지 제작 기여도 100%
+  
   링크: https://www.timeblocks.com/
   
 - 팀내 코드리뷰 제도 도입 및 진행중
+  
   후기: https://developeonmyown.tistory.com/383
   
 - 웹 캘린더 제작 기여도 40%
+  
   링크: https://app.timeblocks.com/
   
 
 ### 現 가랑비 for 초등임용 풀스택 개발자
-![image](https://github.com/onys-programmer/onys-programmer/assets/65271951/3b868624-9f11-46e0-9c30-b53f6ac4decf)
+<img width="1056" alt="image" src="https://github.com/onys-programmer/onys-programmer/assets/65271951/8a533ce8-bd49-4556-a4d8-7d5a455ee413">
+
 
 [성과]
 - 단순 암기를 위해 고통받는 임고생 후배들을 위해 퇴근 시간 이용해서 개발 후 배포, 서비스중 
 - 프론트엔드, 백엔드, 디자인 기여도 100%
 - 앱 배포 후 1주일만에 사용자 300명 돌파, 홍보 없이 우상향중
 iOS 앱 : https://apps.apple.com/us/app/%EA%B0%80%EB%9E%91%EB%B9%84-for-%EC%B4%88%EB%93%B1%EC%9E%84%EC%9A%A9/id6451920067
+
 Android 앱: https://play.google.com/store/apps/details?id=com.onys.drizzle&hl=ko-KR
 
 
