@@ -42,6 +42,7 @@ Android 앱: https://play.google.com/store/apps/details?id=com.onys.drizzle&hl=k
 
 
 ### 애플리케이션 모니터링의 완벽한 시작! Druid6
+---
 <img width="500" alt="image" src="https://github.com/onys-programmer/onys-programmer/assets/65271951/e0c85b39-00b8-4cec-90ab-b3c16bd4f976">
 
 링크: https://druid6.netlify.app/
@@ -70,6 +71,7 @@ Android 앱: https://play.google.com/store/apps/details?id=com.onys.drizzle&hl=k
   
 
 ### 포켓몬 스티커를 NFT로 만나보자! PokeLand
+---
 ![image](https://github.com/onys-programmer/onys-programmer/assets/65271951/c904a977-a671-4dd0-b647-6b96962e356c)
 
 
@@ -90,6 +92,7 @@ Android 앱: https://play.google.com/store/apps/details?id=com.onys.drizzle&hl=k
 
 
 ### 리액트 TDD로 만든 습관형성 프로젝트
+---
 링크: https://github.com/onys-programmer/project-react-2-onys-programmer
 
 개발 기간: 4주 (공부 기간 첫 개발 공부 시작 후 8주)
@@ -97,7 +100,7 @@ Android 앱: https://play.google.com/store/apps/details?id=com.onys.drizzle&hl=k
 
 
 ---
-### 개발 블로그
+## 개발 블로그
 
 https://developeonmyown.tistory.com/
 
@@ -121,12 +124,12 @@ Jest, Recoil, ReactQuery, ExpressJS, Spring, NestJS, NextJS, MongoDB, Tailwind
 - 화장실 갔을 때, 식사할 때, 운전할 때(오디오 북) 습관적 독서
 
 
-# 🌈 성격 어때요?
+## 🌈 성격 어때요?
 - 우직하게 매일 꾸준히 노력하는 책임감 있는 성격입니다.
 - 듣는 사람의 기분을 반드시 생각하며 말합니다.
 
 
-# 🍀 개발 외에 다른 능력은요?
+## 🍀 개발 외에 다른 능력은요?
 - 감정의 중요성을 압니다. 코드로 동료를 배려합니다. 말과 행동으로 동료를 배려합니다.
 - 철학적인 생각을 자주 하고 꾸준히 독서합니다.
 - 교육에 관한 이해가 높아서 빨리 배우고 잘 가르칩니다.
