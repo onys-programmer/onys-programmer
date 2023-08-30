@@ -27,6 +27,7 @@
 - 단순 암기를 위해 고통받는 임고생 후배들을 위해 퇴근 시간 이용해서 개발 후 배포, 서비스중 
 - 프론트엔드, 백엔드, 디자인 기여도 100%
 - 앱 배포 후 1주일만에 사용자 300명 돌파, 홍보 없이 우상향중
+
 iOS 앱 : https://apps.apple.com/us/app/%EA%B0%80%EB%9E%91%EB%B9%84-for-%EC%B4%88%EB%93%B1%EC%9E%84%EC%9A%A9/id6451920067
 
 Android 앱: https://play.google.com/store/apps/details?id=com.onys.drizzle&hl=ko-KR
@@ -45,12 +46,19 @@ Android 앱: https://play.google.com/store/apps/details?id=com.onys.drizzle&hl=k
 [성과]
 - 서버 PEM 키 관리 솔루션으로 데스크톱 앱, Electron 제시
 - 랜딩페이지 기여도 90%
+
   스크롤 애니메이션 제외 모두 설계 및 개발
+
 - 프론트엔드 기여도 50%(프로젝트 리드)
+
   6명의 한정된 자원을 100% 활용하기 위해 백엔드 개발자 대상으로 리액트 강의
+
   아키텍처, 아토믹 컴포넌트 설계 후 팀원 업무 분장
+
   프로젝트 전반적으로 팀원이 질의하는 부분 짝프로그래밍으로 지원
+
   서버 요청 그래프로 그리는 부분 구현 (기여도 50%)
+
 - SSAFY 우수프로젝트상 수상 전국 본선 진출
 
 ### 포켓몬 스티커를 NFT로 만나보자! PokeLand
@@ -58,8 +66,11 @@ Android 앱: https://play.google.com/store/apps/details?id=com.onys.drizzle&hl=k
 깃허브: https://github.com/onys-programmer/pokeland
 
 역할: 팀 리드
+
 개발 기간: 6주
+
 - 리액트 경험이 처음인 팀원 1명을 위해 리액트 강의
+
 - 프론트엔드 기여도 60%
   - 포켓몬 도감 페이지 개발
   - 포켓몬 카드 컴포넌트 개발
@@ -92,9 +103,10 @@ Android 앱: https://play.google.com/store/apps/details?id=com.onys.drizzle&hl=k
 - 스프링으로 백엔드 마이그레이션 하기 위해 김영한님 강의 들으며 수련
 - 화장실 갔을 때, 식사할 때, 운전할 때(오디오 북) 습관적 독서
 
+
 # 🌈 성격 어때요?
 - 우직하게 매일 꾸준히 노력하는 책임감 있는 성격입니다.
-
+- 듣는 사람의 기분을 반드시 생각하며 말합니다.
 
 # 🍀 개발 외에 다른 능력은요?
 - 비전이 명확합니다. 우리나라 IT 인재 육성에 이바지하기!
