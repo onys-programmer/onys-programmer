@@ -66,6 +66,7 @@ Android 앱: https://play.google.com/store/apps/details?id=com.onys.drizzle&hl=k
 
 
 깃허브: https://github.com/onys-programmer/pokeland
+홈페이지: https://onys.notion.site/a81a074fc5a64c409092667961c3279a?pvs=4
 
 역할: 팀 리드
 
