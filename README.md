@@ -2,6 +2,7 @@
 ### 나이 : 29세 (1995년생)
 ### 학력 : 청주교육대학교 졸업
 
+
 ## 現 타임블럭스 웹 프론트엔드 개발자
 ![image](https://github.com/onys-programmer/onys-programmer/assets/65271951/2bbc2251-2e4d-477b-8137-60ae9a8155cb)
 
@@ -19,6 +20,7 @@
   링크: https://app.timeblocks.com/
   
 
+
 ## 現 가랑비 for 초등임용 대표 겸 풀스택 개발자
 <img width="500" alt="image" src="https://github.com/onys-programmer/onys-programmer/assets/65271951/8a533ce8-bd49-4556-a4d8-7d5a455ee413">
 
@@ -33,7 +35,11 @@ iOS 앱 : https://apps.apple.com/us/app/%EA%B0%80%EB%9E%91%EB%B9%84-for-%EC%B4%8
 Android 앱: https://play.google.com/store/apps/details?id=com.onys.drizzle&hl=ko-KR
 
 
+---
+
+
 # 👀 SSAFY 프로젝트
+
 
 ### 애플리케이션 모니터링의 완벽한 시작! Druid6
 <img width="500" alt="image" src="https://github.com/onys-programmer/onys-programmer/assets/65271951/e0c85b39-00b8-4cec-90ab-b3c16bd4f976">
@@ -61,6 +67,8 @@ Android 앱: https://play.google.com/store/apps/details?id=com.onys.drizzle&hl=k
 
 - SSAFY 우수프로젝트상 수상 전국 본선 진출
 
+  
+
 ### 포켓몬 스티커를 NFT로 만나보자! PokeLand
 ![image](https://github.com/onys-programmer/onys-programmer/assets/65271951/c904a977-a671-4dd0-b647-6b96962e356c)
 
@@ -79,14 +87,24 @@ Android 앱: https://play.google.com/store/apps/details?id=com.onys.drizzle&hl=k
   - 포켓몬 카드 컴포넌트 개발
   - 포켓몬 뽑기 페이지 개발
 
+
+
 ### 리액트 TDD로 만든 습관형성 프로젝트
 링크: https://github.com/onys-programmer/project-react-2-onys-programmer
+
 개발 기간: 4주 (공부 기간 첫 개발 공부 시작 후 8주)
 
+
+
 ---
-### 개발 블로그 : https://developeonmyown.tistory.com/
+### 개발 블로그
+
+https://developeonmyown.tistory.com/
+
+
 
 ## 기술 스택
+
 회사에서 쓰는 것
 
 React, Redux, emotionJS
@@ -97,6 +115,7 @@ Jest, Recoil, ReactQuery, ExpressJS, Spring, NestJS, NextJS, MongoDB, Tailwind
 
 
 ## 여가 시간은 어떻게 보내나요?
+
 - 매일 퇴근 후 가랑비 for 초등임용 어플 개발
 - 스프링으로 백엔드 마이그레이션 하기 위해 김영한님 강의 들으며 수련
 - 화장실 갔을 때, 식사할 때, 운전할 때(오디오 북) 습관적 독서
