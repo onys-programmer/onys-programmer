@@ -19,7 +19,7 @@
   링크: https://app.timeblocks.com/
   
 
-## 現 가랑비 for 초등임용 풀스택 개발자
+## 現 가랑비 for 초등임용 대표 겸 풀스택 개발자
 <img width="500" alt="image" src="https://github.com/onys-programmer/onys-programmer/assets/65271951/8a533ce8-bd49-4556-a4d8-7d5a455ee413">
 
 
