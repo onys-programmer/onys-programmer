@@ -76,8 +76,9 @@ Android 앱: https://play.google.com/store/apps/details?id=com.onys.drizzle&hl=k
   - 포켓몬 카드 컴포넌트 개발
   - 포켓몬 뽑기 페이지 개발
 
-### 리액트 TDD로 만든 습관형성 프로젝트 : https://github.com/onys-programmer/project-react-2-onys-programmer
-개발 기간: 4주 (공부 기간 8주)
+### 리액트 TDD로 만든 습관형성 프로젝트
+링크: https://github.com/onys-programmer/project-react-2-onys-programmer
+개발 기간: 4주 (공부 기간 첫 개발 공부 시작 후 8주)
 
 ---
 ### 개발 블로그 : https://developeonmyown.tistory.com/
@@ -107,6 +108,7 @@ Android 앱: https://play.google.com/store/apps/details?id=com.onys.drizzle&hl=k
 # 🌈 성격 어때요?
 - 우직하게 매일 꾸준히 노력하는 책임감 있는 성격입니다.
 - 듣는 사람의 기분을 반드시 생각하며 말합니다.
+
 
 # 🍀 개발 외에 다른 능력은요?
 - 비전이 명확합니다. 우리나라 IT 인재 육성에 이바지하기!
