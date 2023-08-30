@@ -2,7 +2,7 @@
 ### 나이 : 29세 (1995년생)
 ### 학력 : 청주교육대학교 졸업
 
-### 現 타임블럭스 웹 프론트엔드 개발자
+## 現 타임블럭스 웹 프론트엔드 개발자
 ![image](https://github.com/onys-programmer/onys-programmer/assets/65271951/2bbc2251-2e4d-477b-8137-60ae9a8155cb)
 
 [성과]
@@ -19,8 +19,8 @@
   링크: https://app.timeblocks.com/
   
 
-### 現 가랑비 for 초등임용 풀스택 개발자
-<img width="1056" alt="image" src="https://github.com/onys-programmer/onys-programmer/assets/65271951/8a533ce8-bd49-4556-a4d8-7d5a455ee413">
+## 現 가랑비 for 초등임용 풀스택 개발자
+<img width="700" alt="image" src="https://github.com/onys-programmer/onys-programmer/assets/65271951/8a533ce8-bd49-4556-a4d8-7d5a455ee413">
 
 
 [성과]
@@ -84,22 +84,16 @@ Android 앱: https://play.google.com/store/apps/details?id=com.onys.drizzle&hl=k
 ### 개발 블로그 : https://developeonmyown.tistory.com/
 
 ## 기술 스택
+회사에서 쓰는 것
 
-<!-- ![김태호 기술스택2](https://user-images.githubusercontent.com/65271951/103536702-5b7fc480-4ed6-11eb-8441-e81795f90321.jpeg) -->
+React, Redux, emotionJS
 
+혼자 공부한 것
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> | <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> | <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
-
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white"> <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white">
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"> <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white"> <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"> <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=white">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"> <img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"> <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=MUI&logoColor=white"> <img src="https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=AntDesign&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
+Jest, Recoil, ReactQuery, ExpressJS, Spring, NestJS, NextJS, MongoDB, Tailwind
 
 
-## 무엇을 하고 있나요?
+## 여가 시간은 어떻게 보내나요?
 - 매일 퇴근 후 가랑비 for 초등임용 어플 개발
 - 스프링으로 백엔드 마이그레이션 하기 위해 김영한님 강의 들으며 수련
 - 화장실 갔을 때, 식사할 때, 운전할 때(오디오 북) 습관적 독서
@@ -111,7 +105,7 @@ Android 앱: https://play.google.com/store/apps/details?id=com.onys.drizzle&hl=k
 
 
 # 🍀 개발 외에 다른 능력은요?
-- 비전이 명확합니다. 우리나라 IT 인재 육성에 이바지하기!
+- 감정의 중요성을 압니다. 코드로 동료를 배려합니다. 말과 행동으로 동료를 배려합니다.
 - 철학적인 생각을 자주 하고 꾸준히 독서합니다.
 - 교육에 관한 이해가 높아서 빨리 배우고 잘 가르칩니다.
 - 음악교육과라서 음악을 잘 합니다. 🎸
