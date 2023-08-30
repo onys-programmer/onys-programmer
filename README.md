@@ -20,7 +20,7 @@
   
 
 ## 現 가랑비 for 초등임용 풀스택 개발자
-<img width="700" alt="image" src="https://github.com/onys-programmer/onys-programmer/assets/65271951/8a533ce8-bd49-4556-a4d8-7d5a455ee413">
+<img width="500" alt="image" src="https://github.com/onys-programmer/onys-programmer/assets/65271951/8a533ce8-bd49-4556-a4d8-7d5a455ee413">
 
 
 [성과]
@@ -36,7 +36,7 @@ Android 앱: https://play.google.com/store/apps/details?id=com.onys.drizzle&hl=k
 # 👀 SSAFY 프로젝트
 
 ### 애플리케이션 모니터링의 완벽한 시작! Druid6
-![image](https://github.com/onys-programmer/onys-programmer/assets/65271951/e0c85b39-00b8-4cec-90ab-b3c16bd4f976)
+<img width="500" alt="image" src="https://github.com/onys-programmer/onys-programmer/assets/65271951/e0c85b39-00b8-4cec-90ab-b3c16bd4f976">
 
 링크: https://druid6.netlify.app/
 깃허브: https://github.com/onys-programmer/druid6
@@ -62,6 +62,8 @@ Android 앱: https://play.google.com/store/apps/details?id=com.onys.drizzle&hl=k
 - SSAFY 우수프로젝트상 수상 전국 본선 진출
 
 ### 포켓몬 스티커를 NFT로 만나보자! PokeLand
+![image](https://github.com/onys-programmer/onys-programmer/assets/65271951/c904a977-a671-4dd0-b647-6b96962e356c)
+
 
 깃허브: https://github.com/onys-programmer/pokeland
 
