@@ -41,8 +41,9 @@ Android 앱: https://play.google.com/store/apps/details?id=com.onys.drizzle&hl=k
 # 👀 SSAFY 프로젝트
 
 
-### 애플리케이션 모니터링의 완벽한 시작! Druid6
 ---
+## 애플리케이션 모니터링의 완벽한 시작! Druid6
+
 <img width="500" alt="image" src="https://github.com/onys-programmer/onys-programmer/assets/65271951/e0c85b39-00b8-4cec-90ab-b3c16bd4f976">
 
 링크: https://druid6.netlify.app/
@@ -69,9 +70,9 @@ Android 앱: https://play.google.com/store/apps/details?id=com.onys.drizzle&hl=k
 - SSAFY 우수프로젝트상 수상 전국 본선 진출
 
   
-
-### 포켓몬 스티커를 NFT로 만나보자! PokeLand
 ---
+## 포켓몬 스티커를 NFT로 만나보자! PokeLand
+
 ![image](https://github.com/onys-programmer/onys-programmer/assets/65271951/c904a977-a671-4dd0-b647-6b96962e356c)
 
 
@@ -90,9 +91,9 @@ Android 앱: https://play.google.com/store/apps/details?id=com.onys.drizzle&hl=k
   - 포켓몬 뽑기 페이지 개발
 
 
-
-### 리액트 TDD로 만든 습관형성 프로젝트
 ---
+## 리액트 TDD로 만든 습관형성 프로젝트
+
 링크: https://github.com/onys-programmer/project-react-2-onys-programmer
 
 개발 기간: 4주 (공부 기간 첫 개발 공부 시작 후 8주)
